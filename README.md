@@ -5,4 +5,7 @@ SiaNecio es un nombre placeholder de un Bot de Telegram que busca analizar text 
 Autores
 
 Allan Esquivel
+
 Ricardo Barquero
+
+
